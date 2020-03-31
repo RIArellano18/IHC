@@ -26,9 +26,9 @@ For this week we will be continuing with the document revision of our first deli
 
 |Assigned to|Jobs Assigned|Job Complexity|Start Date|End Date|Productivity Score|
 |---|---|---|---|---|---|
-|Roberto|1. Translate/Revise the personas tool 2. Translate/Revise the Investigation Plan|5|March 30th, 2019|Open|-|
-|Guillermo|1. Benchmark with related apps(area of opportunity)|2|March 30th, 2019|Open|-|
-|Alejandro|Complete the template for interviews (with study) as well as finalize the questionnaire (with study)|5|March 30th, 2019|Open|-|
+|Roberto|1.Translate/Revise the personas tool 2.Translate/Revise the Investigation Plan|5|March 30th, 2019|Open|-|
+|Guillermo|1.Benchmark with related apps(area of opportunity)|2|March 30th, 2019|Open|-|
+|Alejandro|1.Complete the template for interviews (with study) 2.Finalize the questionnaire (with study)|5|March 30th, 2019|Open|-|
 
 ## Overall Productivity Scores
 |Team Member|Overall Score|
